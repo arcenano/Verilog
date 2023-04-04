@@ -2,7 +2,7 @@
 Verilog Implementations
 
 CDC: 
-Clock Domain Cross Handshake Module with Systemverilog Verification
+Clock Domain Cross Handshake Module with SystemVerilog Verification
 - Currently implementing randomization of parameters
 
 Old Projects
