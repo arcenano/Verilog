@@ -7,7 +7,7 @@ Clock Domain Cross Handshake Module with SystemVerilog Verification
 
 Vending:
 Simple Vending Machine Implementation for Microprocessor Architecture
-Currently implementing a CPU with instruction pipelining.
+Currently implementing a CPU with instruction pipelining
 
 Old Projects
 
